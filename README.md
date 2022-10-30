@@ -14,8 +14,10 @@
   </a>
 </div>
 <hr>
-<p>Languages: Java, C, </p>
-<p>Tools: Eclipse, Unity, Blender, </p>
+<p>👾 Languages: Java, C,  </p>
+<p>👾 Tools: Eclipse, Unity, Blender, </p>
+
+
 <!--
 **mmmccccc/mmmccccc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
