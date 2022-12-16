@@ -6,7 +6,7 @@
   <a href="https://drive.google.com/file/d/1oz_SnwiMJ8KdmjzWoAjTKOMOljtkoFQl/view?usp=sharing">
     <img src="https://img.shields.io/badge/Reseume-gray?style=for-the-badge" alt="Resume Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/minji-chang-9ab637178">
+  <a href="https://www.linkedin.com/in/minji-chang-k">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:ch.minji.k@gmail.com">
