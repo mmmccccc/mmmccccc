@@ -4,7 +4,7 @@
 </div>
 <div id="badges" align="center">
   <a href="https://drive.google.com/file/d/1oz_SnwiMJ8KdmjzWoAjTKOMOljtkoFQl/view?usp=sharing">
-    <img src="https://img.shields.io/badge/Reseume-gray?style=for-the-badge" alt="Resume Badge"/>
+    <img src="https://img.shields.io/badge/Resume-gray?style=for-the-badge" alt="Resume Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/minji-chang-k">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
