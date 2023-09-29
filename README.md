@@ -3,7 +3,7 @@
 <h3>Hi, I'm Millie! <br> I'm a second year software engineering student at McGill University. </h3>
 </div>
 <div id="badges" align="center">
-  <a href="https://drive.google.com/file/d/1oz_SnwiMJ8KdmjzWoAjTKOMOljtkoFQl/view?usp=sharing">
+ <!-- <a href="https://drive.google.com/file/d/1oz_SnwiMJ8KdmjzWoAjTKOMOljtkoFQl/view?usp=sharing"> -->
     <img src="https://img.shields.io/badge/Resume-gray?style=for-the-badge" alt="Resume Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/minji-chang-k">
